@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieAssignmentTest", "MovieAssignmentTest\MovieAssignmentTest.csproj", "{F102F1BD-4AE1-49AD-9B12-97D87D622E5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestMovieAssigment", "UnitTestMovieAssigment\UnitTestMovieAssigment.csproj", "{A512047F-3C2B-4534-89BE-65B5C728AEC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F102F1BD-4AE1-49AD-9B12-97D87D622E5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F102F1BD-4AE1-49AD-9B12-97D87D622E5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F102F1BD-4AE1-49AD-9B12-97D87D622E5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F102F1BD-4AE1-49AD-9B12-97D87D622E5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A512047F-3C2B-4534-89BE-65B5C728AEC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A512047F-3C2B-4534-89BE-65B5C728AEC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A512047F-3C2B-4534-89BE-65B5C728AEC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A512047F-3C2B-4534-89BE-65B5C728AEC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A858FCA-4920-4F58-85EE-BD16655B2288}
+	EndGlobalSection
+EndGlobal
